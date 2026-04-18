@@ -262,16 +262,6 @@ Potential features and improvements for future versions of Career Craft:
 *   **Mobile Application**: Native mobile apps (iOS/Android) for on-the-go job tracking.
 *   **Browser Extension**: A companion browser extension to easily save jobs from various job boards.
 
-## Contact
-
-This project was created and is maintained by **Parth Sharma**.
-
-*   **Email**: [Ksparth12@gmail.com](mailto:Ksparth12@gmail.com)
-*   **LinkedIn**: [linkedin.com/in/ksparth128](https://www.linkedin.com/in/ksparth128)
-*   **GitHub**: [github.com/ksparth12](https://github.com/ksparth12)
-
-Feel free to reach out with any questions, feedback, suggestions, or collaboration inquiries!
-
 ## Contributing
 
 Contributions are highly encouraged and welcome! If you're interested in contributing to Career Craft, please follow these guidelines:
